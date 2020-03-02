@@ -1,4 +1,4 @@
 1) в отличии от ветки master в ветке demo будет разный commit у файлов README и human.txt. Master: В README - fix readme; 
 в human.txt - init.
 В ветке demo: в README - README added по умолчанию; в human.txt - merge branch 'buttons' into demo
-2)
+2) произошло 6 коммитов
